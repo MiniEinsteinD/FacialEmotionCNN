@@ -2,7 +2,7 @@
 
 This is my solution to one of the assignments from my ML class
 
-The dataset used can be found on Kaggle - The link: https://www.kaggle.com/datasets/msambare/fer2013
+The dataset used can be found on Kaggle: FER-2013 - The link: https://www.kaggle.com/datasets/msambare/fer2013
 
 Creating a convolutional neural network (CNN) capable of accurately identifying and interpreting subtle facial cues.
 
